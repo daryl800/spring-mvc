@@ -1,3 +1,2 @@
 # spring-mvc
-Basic Spring MVC
-This a baisc Java Spring MVC with XML configuration
+Basic Java Spring MVC using XML configuration files
